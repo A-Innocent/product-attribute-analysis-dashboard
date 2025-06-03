@@ -1,34 +1,47 @@
-# 🛒 Product Attribute Analysis Dashboard
+# 🛒 Product Attribute Analytics Dashboard
 
-A Power BI dashboard designed to analyze and visualize product attribute completeness and compliance across thousands of SKUs, inspired by real-world merchandising work at Chewy.
+**Project Description**  
+This Power BI project simulates a merchandising operations dashboard inspired by real experience at Chewy. The dashboard helps analysts and category managers quickly assess product attribute completeness and vendor onboarding performance, ultimately improving time-to-market for new SKUs.
 
-## 📌 Overview
+---
 
-This dashboard helps stakeholders monitor product attribute coverage, identify gaps in vendor submissions, and improve onboarding efficiency. The report empowers merchandising teams to take proactive steps toward improving product data quality and alignment with brand standards.
+## 🔍 Key Features
 
-## 🧰 Tools Used
+- Dynamic attribute completeness scoring by product, brand, and category
+- Vendor onboarding funnel with conditional formatting
+- Time-series trend analysis of completeness improvements
+- Drill-through insights on low-quality listings and missing fields
 
-- Power BI (DAX, Power Query)
-- SQL (PostgreSQL)
-- Excel (for staging and transformation)
-- Power BI Service (deployment & refresh scheduling)
+---
 
-## 📊 Key Features
+## 📊 Tools & Skills Applied
 
-- Attribute Completeness Score by Category and Brand
-- Vendor Onboarding Funnel
-- Compliance Gap Heatmaps
-- Time-Based Trends of Attribute Fill Rates
-- Dynamic Filters (Brand, Category, Submission Date)
+- **Power BI Desktop**  
+- **DAX** (Calculated Columns, Measures, KPIs)  
+- **Power Query** for data transformation  
+- **SQL** for initial data shaping (mocked in Excel for this project)
 
-## 🧠 Business Impact
+---
 
-- Simulated a 15% increase in attribute completeness
-- Boosted vendor onboarding insights based on real-world project
-- Modeled improvements to product data quality
+## 🎯 Value Delivered
 
-## 📎 Screenshots
-_(Add screenshots of visuals once built)_
+- Enables product operations teams to identify and prioritize data gaps  
+- Simulates a 15–20% increase in attribute completeness using proactive vendor tracking  
+- Emulates real business impact by combining qualitative and quantitative merchandising KPIs  
 
+---
 
+## 📁 Demo & Files
+
+- 📂 `.pbix` file available in repository  
+- 📸 Dashboard screenshots included  
+- 📎 Live Preview [via NovyPro](https://www.novypro.com/profile_projects/ainnocent)
+
+---
+
+## 🧠 Learning Outcomes
+
+- Deepened understanding of DAX logic and row context  
+- Applied real business intelligence strategy to merchandising workflows  
+- Reinforced best practices for dashboard UX in stakeholder reviews
 
